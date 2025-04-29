@@ -39,7 +39,7 @@ It uses Microsoft's **DialoGPT-small** model to generate human-like responses to
    python chatbot.py
    ```
 ## 📷 Preview
-✅ User types a message → 🤖 AI generates a response → 🖥️ Displayed in a colorful chat window!
+![Image](https://github.com/user-attachments/assets/f45f4217-292f-4693-b3f0-767d1200db30)
 ## ✨ Future Improvements
 + 📜 Improve conversation memory (multi-turn conversations).
 + 🎤 Add speech-to-text and text-to-speech features.
